@@ -1,0 +1,4 @@
+name: VoidPlugin
+version: ${project.version}
+main: io.github.voidplugin.voidplugin.VoidPlugin
+api-version: 1.16
