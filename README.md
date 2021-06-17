@@ -1,3 +1,0 @@
-# VoidPlugin
-
-spigotのプラグインのテンプレ
