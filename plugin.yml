@@ -1,3 +1,3 @@
 name: VoidPlugin
-main: io.github.voidplugin.voidplugin.voidplugin
+main: io.github.voidplugin.voidplugin.VoidPlugin
 version: 1.0
